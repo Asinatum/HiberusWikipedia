@@ -1,7 +1,7 @@
-Feature: Google Search
-  As a user
-  I want to perform a Google search
-  So that I can find relevant information
+Feature: Busqueda en Google
+  Recreando el camino de usuario
+  Quiero realizar una búsqueda en google.com
+  para encontrar datos relevantes sobre los inicios de la automatización en wikipedia
 
   Scenario: Perform Google Search and Verify Wiki Link
     Given Estoy en la home page de google
