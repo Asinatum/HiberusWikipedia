@@ -14,6 +14,7 @@ payload = {
 
 response = requests.post(url + "/user", json=payload)  #Si enviamos los parametros dentro de json, internamente POST se encarga de serializarlos (los convierte a un json).
 
+
 print(response.status_code)
 print(response.content)
 
