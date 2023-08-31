@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9704f3d-0b80-48fd-98c2-df4fd7ca1b29" name="Changes" comment="" />
+    <list default="true" id="c9704f3d-0b80-48fd-98c2-df4fd7ca1b29" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Ejercicio 2 - TEST API/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio 2 - TEST API/create_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio 2 - TEST API/lista_mascotas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automatización_primer_registro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$cumento entregable - entrevista.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~WRL2213.tmp" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
