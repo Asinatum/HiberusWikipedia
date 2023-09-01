@@ -1,0 +1,9 @@
+# HiberusWikipedia
+En este repositorio están las respuestas a las preguntas del challenge técnico
+
+En el word se encuentran las respuestas teóricas.
+=> En relación al Test Strategy, entregué un index de lo que haría si realizara el documento en profundidad
+En mi experiencia, la estrategia de pruebas es un documento que requiere muchos datos para poder performarlo de manera correcta.
+
+En el proyecto de python, en la carpeta "Ejercicio 2 - TEST API":
+=> se encuentran los 3 pasos requeridos para interactuar y automatizar la API
