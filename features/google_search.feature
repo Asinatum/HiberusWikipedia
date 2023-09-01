@@ -3,7 +3,7 @@ Feature: Busqueda en Google
   Quiero realizar una búsqueda en google.com
   para encontrar datos relevantes sobre los inicios de la automatización en wikipedia
 
-  Scenario: Realice una búsqueda en Google y verifique el enlace Wikipedia
+  Scenario: Realizar una búsqueda en Google y verificar datos tipo "DATE" en el enlace Wikipedia
     Given Estoy en la home page de google
     When Busco la palabra "automatizacion"
     Then Debería poder ver los resultados de la búsqueda
